@@ -4,7 +4,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/blade)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 **MediKonsul** is a web-based **health consultation booking application** built with Laravel.  
 The platform allows patients to book consultation sessions easily while enabling administrators to manage schedules, booking availability, and consultation durations efficiently.
@@ -49,7 +49,7 @@ The platform allows patients to book consultation sessions easily while enabling
 
 ### Frontend
 - Blade Template Engine
-- Bootstrap
+- TailwindCss
 
 ### Email Service
 - Laravel Mail (SMTP Configuration)
@@ -170,10 +170,9 @@ MediKonsul is built to demonstrate:
 ---
 
 ## 📌 Future Improvements
-
-- Online payment integration  
+  
 - Doctor profile management  
-- Multi-role authentication (Admin, Doctor, Patient)  
+- Multi-role authentication (Admin and Patient)  
 - Dashboard analytics  
 - Calendar-based booking visualization  
 
