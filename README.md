@@ -170,9 +170,7 @@ MediKonsul is built to demonstrate:
 ---
 
 ## 📌 Future Improvements
-  
-- Doctor profile management  
-- Multi-role authentication (Admin and Patient)  
+   
 - Dashboard analytics  
 - Calendar-based booking visualization  
 
